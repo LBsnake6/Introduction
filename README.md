@@ -1,2 +1,0 @@
-# Introduction
-GitHub IO Introduction
